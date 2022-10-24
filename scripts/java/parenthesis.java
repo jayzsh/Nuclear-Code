@@ -3,7 +3,7 @@
 *   Author: 	jay.dnb@outlook.in
 *   Created: 	24.09.2020 UTC+5:30
 *
-*   JAVA scipt to remove parenthesis & content. 
+*   JAVA program to remove parenthesis & content. 
 *   Synopsis: ~$ java ./*
 *
 **/
